@@ -1,0 +1,13 @@
+---
+layout: page
+title: UCYN-A Pangenome
+description: Exploring the pangenome of Candidatus Atelocyanobacterium thalassa (UCYN-A).
+img: /assets/img/project_placeholder.jpg # Add a relevant project image to this path
+importance: 1
+---
+
+[cite_start]The diazotroph *Candidatus Atelocyanobacterium thalassa* (UCYN-A) is an endosymbiont of the marine alga *Braarudosphaera bigelowii*, currently in an evolutionary transition towards becoming a nitrogen-fixing organelle known as a "nitroplast"[cite: 170].
+
+[cite_start]While previous estimates of ocean nitrogen fixation focused on other cyanobacteria, the discovery of UCYN-A revealed it as a key component in global N2 fixation[cite: 171, 172]. [cite_start]In this study, we present the first pangenome constructed for UCYN-A, providing significant insights into the genomic adaptations that enable it to maintain its close relationship with its host[cite: 173].
+
+[cite_start]This work provides new insights into the genomic and metabolic adaptations of UCYN-A and its host, opening new avenues for future research on the evolution of complex symbioses and their applications in biotechnology[cite: 174, 176].
