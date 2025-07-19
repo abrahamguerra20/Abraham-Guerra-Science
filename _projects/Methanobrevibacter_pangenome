@@ -1,0 +1,11 @@
+---
+layout: page
+title: Rethinking Methanobrevibacter smithii
+description: Using comparative genomics to reveal two distinct species within this human-associated archaeon.
+img: /assets/img/project_placeholder_2.jpg # You can change this to a relevant image
+importance: 2
+---
+
+[cite_start]The methanogenic species *Methanobrevibacter smithii* is a ubiquitous member of the intestinal microbial community[cite: 210]. [cite_start]Although the 16S rRNA gene has traditionally served as the foundation for microbial classification, its effectiveness in distinguishing closely related species is limited[cite: 211]. [cite_start]This project demonstrates that *M. smithii* actually comprises two distinct species[cite: 211].
+
+[cite_start]Using phylogenomic and Average Nucleotide Identity (ANI) analyses, combined with functional profiles, we support the reclassification of *Methanobrevibacter smithii* into *M. smithii* and a new species, *M. intestini*[cite: 213]. [cite_start]We also identified genes related to antibiotic resistance and pathogenicity, which may be crucial for understanding these species' roles in the human microbiota and could challenge the view of archaea as non-pathogenic[cite: 214]. [cite_start]This case highlights broader issues of taxonomic misclassification in prokaryotes and underscores the importance of advanced genomic approaches[cite: 216].
